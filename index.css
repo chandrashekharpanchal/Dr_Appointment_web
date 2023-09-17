@@ -1,0 +1,30 @@
+
+        H1{
+            color: rgb(191, 132, 209);
+            text-align: center;
+        }
+        body{
+            background-image: url(hospital/doctor-offering-medical-teleconsultation.jpg);
+            background-repeat: no-repeat;
+            background-size:cover ;
+        }
+        .div1{
+            border: 5px solid rgb(191, 132, 209);
+            width: 500px;
+            height: 600px;
+            margin: 5% 20% 05% 25%;
+            background-image: url(hospital/doctor-work_blur\ pic.avif);
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+        }
+   label{ font-size: x-large;}
+   select{
+    font-size: smaller;
+   }
+   th{
+    bottom: 5px solid green;
+   }
+   input{
+    text-align: center;
+   }
